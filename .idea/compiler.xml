@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="java-data-structures" target="17" />
+      <module name="java-data-structures.main" target="17" />
+      <module name="java-data-structures.test" target="17" />
+      <module name="mail-server" target="17" />
+      <module name="mail-server.main" target="17" />
+      <module name="mail-server.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

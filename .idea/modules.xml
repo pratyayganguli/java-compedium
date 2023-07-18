@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-compedium.iml" filepath="$PROJECT_DIR$/.idea/java-compedium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-data-structures.iml" filepath="$PROJECT_DIR$/java-data-structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-data-structures.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-data-structures.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-data-structures.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-data-structures.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-server.iml" filepath="$PROJECT_DIR$/mail-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-server.test.iml" />
+    </modules>
+  </component>
+</project>
