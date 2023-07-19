@@ -8,6 +8,12 @@
       <module name="mail-server" target="17" />
       <module name="mail-server.main" target="17" />
       <module name="mail-server.test" target="17" />
+      <module name="spring" target="17" />
+      <module name="spring-boot" target="17" />
+      <module name="spring-boot.main" target="17" />
+      <module name="spring-boot.test" target="17" />
+      <module name="spring.main" target="17" />
+      <module name="spring.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

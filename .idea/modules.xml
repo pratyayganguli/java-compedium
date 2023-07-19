@@ -9,6 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/mail-server.iml" filepath="$PROJECT_DIR$/mail-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-server.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.test.iml" />
     </modules>
   </component>
 </project>
