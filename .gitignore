@@ -1,22 +1,19 @@
 .gradle
 build/
+out/
+.idea
+
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-
-### IntelliJ IDEA ###
 *.iws
-*.iml
 *.ipr
-.idea/
 
-out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
 gradlew
 *.bat
 *.exe
 *.sh
 *.gradle
-
+*.iml
