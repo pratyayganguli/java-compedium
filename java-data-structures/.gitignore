@@ -18,3 +18,5 @@ gradlew
 *.bat
 *.exe
 *.sh
+*.gradle
+
